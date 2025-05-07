@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+#counter {
+    font-size: 5em;
+    font-weight: bold;
+    transition: transform 0.1s ease-in-out;
+}
